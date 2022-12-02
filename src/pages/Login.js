@@ -1,7 +1,7 @@
 import React from "react";
 
 function Login() {
-    retrun (
+    return (
         <div>
             Login
         </div>

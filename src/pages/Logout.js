@@ -1,7 +1,7 @@
 import React from "react";
 
 function Logout() {
-    retrun (
+    return (
         <div>
             Logout
         </div>
